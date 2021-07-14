@@ -68,6 +68,7 @@ body
 .conmebol .right
 {
     width: 45%;
+    overflow: hidden;
     
 }
 .conmebol .right img
